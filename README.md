@@ -1,4 +1,4 @@
-# BRAND_NAME — SMS compliance pages
+# Quantum Notify — SMS compliance pages
 
 Static pages used for A2P 10DLC campaign registration:
 
